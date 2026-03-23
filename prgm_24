@@ -1,5 +1,5 @@
-> use christy;
-switched to db christy
+> use riya;
+switched to db riya
 > db.createCollection("EMPLOYEE")
 { "ok" : 1 }
 > db.EMPLOYEE.insertMany([{"Empno":1,"Name":"John Doe","Salary":60000,"Role":"Manager"},{"Empno":1,"Name":"John Doe","Salary":60000,"Role":"Manager"}])
